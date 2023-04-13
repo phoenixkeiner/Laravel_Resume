@@ -15,7 +15,7 @@ This is my Laravel Resume that includes Tailwind CSS.
 
 
 ## Requirements
-
+```
  "require": {
       "php": "^8.1",
       "guzzlehttp/guzzle": "^7.2",
@@ -23,18 +23,18 @@ This is my Laravel Resume that includes Tailwind CSS.
     "laravel/sanctum": "^3.2",
       "laravel/tinker": "^2.8"
   }
-
+```
 
 ## Setup
 PLease run the following comments locally in the Laravel Directory
 
-'''
+```
 - composer install --ignore-platform-reqs
 - composer update
 - php artisan key:generate
 - php artisan config:cache
 - php artisan serve
-'''
+```
 
 
 
