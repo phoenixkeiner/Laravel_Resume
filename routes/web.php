@@ -16,3 +16,13 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 });
+
+Route::get('/resume', function () {
+    return view('resume');
+});
+
+Route::get('/tmi', function () {
+    return view('tmi');
+});
+
+Route::any('{query}', function() { return redirect('/'); })->where('query', '.*');
