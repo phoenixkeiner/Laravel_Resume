@@ -31,6 +31,7 @@ PLease run the following comments locally in the Laravel Directory
 ```
 - composer install --ignore-platform-reqs
 - composer update
+- cp .env.example .env
 - php artisan key:generate
 - php artisan config:cache
 - php artisan serve
