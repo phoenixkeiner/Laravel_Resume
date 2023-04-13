@@ -5,7 +5,7 @@
 
 This is my Laravel Resume that includes Tailwind CSS.
 
-- Please Add me on my [LinkedIn](https://www.linkedin.com/in/phoenix-keiner?utm_source=web&utm_medium=github&utm_campaign=laravel)!
+- Please add me on my [LinkedIn](https://www.linkedin.com/in/phoenix-keiner?utm_source=web&utm_medium=github&utm_campaign=laravel)!
 
 
 ## Experience
@@ -26,7 +26,7 @@ This is my Laravel Resume that includes Tailwind CSS.
 ```
 
 ## Setup
-PLease run the following comments locally in the Laravel Directory
+Please run the following commands locally in the cloned Laravel directory.
 
 ```
 - composer install --ignore-platform-reqs
