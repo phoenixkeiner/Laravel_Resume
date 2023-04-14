@@ -15,8 +15,14 @@
         <div class="bg-gradient-to-r from-purple-400 to-orange-200">
             <div class="mx-auto p-6 lg:p-8">
                 <div class="rounded overflow-hidden shadow-lg w-full justify-center">
-                    <h1 class="mb-4 text-4xl text-center font-extrabold leading-none tracking-tight text-stone-900 md:text-5xl lg:text-6xl dark:text-white">Too Much Information About Phoenix!</h1>
-                    <p class="mb-6 text-lg text center font-normal text-stone-500 lg:text-xl sm:px-16 xl:px-48 dark:text-stone-400">Here at Flowbite we focus on markets where technology, innovation, and capital can unlock long-term value and drive economic growth.</p>
+                    <h1 class="mb-4 text-4xl text-center font-extrabold leading-none tracking-tight text-white md:text-5xl lg:text-6xl dark:text-stone-900">Too Much Information About Phoenix!</h1>
+
+                    <hr class="w-72 h-1 mx-auto my-4 bg-stone-300 border-0 rounded md:my-10 dark:bg-gray-700">
+
+                    <h1 class="mb-4 text-xl text-center font-extrabold leading-none tracking-tight text-white md:text-4xl lg:text-5xl dark:text-stone-900">Mixed Martial Arts</h1>
+                    <p class="mb-6 text-lg text center font-normal text-stone-800 lg:text-xl sm:px-16 xl:px-48 dark:text-stone-900">
+                        I am a huge fan
+                    </p>
 
                         <!-- embedded post from my instagram -->
                         <div class="flex items-center justify-center">
@@ -61,13 +67,14 @@
                     </div>
                 </div>
 
-                <div class="flex justify-center mt-16 px-0 sm:items-center sm:justify-between">
-                        <div class="flex justify-center mt-16 px-0 sm:items-center sm:justify-between">
-                        <button type="button" class="text-black font-bold py-2 px-4 rounded bg-gradient-to-r from-green-100 to-blue-200 hover:from-pink-200 hover:to-yellow-200 ">
-                            <a href="/">return home</a>
-                          </button>
+                <div class="flex justify-left">
+                    <div class="justify-center mt-16 px-0 sm:items-center sm:justify-between">
+                        <a href="/">
+                            <button type="button" class="text-black font-bold py-2 px-4 rounded bg-gradient-to-r from-emerald-300 to-sky-200 hover:from-rose-600 hover:to-yellow-200 dark:from-rose-800 dark:to-yellow-400 dark:hover:from-emerald-300 dark:hover:to-sky-400 ">
+                            return home
+                            </button>
+                        </a>
                     </div>
-                </div>
             </div>
         </div>
     </body>
