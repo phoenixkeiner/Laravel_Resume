@@ -12,10 +12,12 @@
         <link rel="stylesheet" href="css/app.css">
     </head>
 
-    <body class="antialiased">
+    <body class="antialiased selection:bg-fuchsia-300 selection:text-fuchsia-900 box-border
+                bg-gradient-to-r from-violet-400 from-10% via-sky-500 via-30% to-amber-400 to-90%
+                dark:bg-gradient-to-r dark:from-violet-500 dark:from-10% dark:via-sky-600 dark:via-30% dark:to-amber-500 dark:to-90%">
 
         <!-- linkedin svg from linkedin's website https://brand.linkedin.com/content/brand/global/en_us/index/visual-identity/logo -->
-        <div class="bg-gradient-to-r from-violet-400 from-10% via-sky-500 via-30% to-amber-400 to-90% relative sm:flex sm:justify-center sm:items-center min-h-screen">
+        <div>
             <div class="max-w-7xl mx-auto p-6 lg:p-8">
 
                 <div class="flex justify-right absolute top-5 right-5">
@@ -26,7 +28,7 @@
                     </svg>
                 </div>
 
-                <div class="md:flex bg-rose-400 rounded-xl p-8 md:p-0 dark:bg-rose-500 text-stone-900 dark:text-white">
+                <div class="md:flex bg-rose-400 rounded-xl p-8 gap-y-1 dark:bg-rose-500 text-stone-900 dark:text-white" role="intoduction of me">
                     <img class="w-24 h-24 md:w-48 md:h-auto md:rounded-none rounded-full mx-auto" src="/img/face.jpg" alt="beautiful image of my face" width="384" height="512">
                     <div class="pt-6 md:p-8 text-center md:text-left space-y-4">
                       <blockquote>
