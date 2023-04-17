@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
+
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -44,8 +45,8 @@
                         <h3 class="text-lg font-semibold text-stone-900 dark:text-stone-500">Jr. Web Developer</h3>
                         <p class="text-base font-normal text-stone-500 dark:text-stone-400">bla blabalbalba</p>
                     </li>
-
                 </ol>
+
                 <!-- Download button for my resume -->
                 <a href="pdf/freshcat2.pdf" download="freshcat2.pdf">
                     <button class="inline-flex items-center px-4 py-2 text-sm font-medium text-stone-900 bg-white border border-stone-200 rounded-lg hover:bg-stone-100 hover:text-blue-700 focus:z-10 focus:ring-4 focus:outline-none focus:ring-stone-200 focus:text-blue-700 dark:bg-stone-800 dark:text-stone-400 dark:border-stone-600 dark:hover:text-white dark:hover:bg-stone-700 dark:focus:ring-stone-700">
@@ -63,9 +64,9 @@
                             </a>
                         </div>
                     </div>
+
                 <div>
             </div>
         </div>
     </body>
-
 </html>

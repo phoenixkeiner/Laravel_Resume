@@ -17,11 +17,19 @@
                 <div class="rounded overflow-hidden shadow-lg w-full justify-center">
                     <h1 class="mb-4 text-4xl text-center font-extrabold leading-none tracking-tight text-white md:text-5xl lg:text-6xl dark:text-stone-900">Too Much Information About Phoenix!</h1>
 
-                    <hr class="w-72 h-1 mx-auto my-4 bg-stone-300 border-0 rounded md:my-10 dark:bg-gray-700">
+                    <hr class="w-72 h-1 mx-auto my-4 bg-stone-300 border-0 rounded md:my-10 dark:bg-stone-700">
 
                     <h1 class="mb-4 text-xl text-center font-extrabold leading-none tracking-tight text-white md:text-4xl lg:text-5xl dark:text-stone-900">Mixed Martial Arts</h1>
-                    <p class="mb-6 text-lg text center font-normal text-stone-800 lg:text-xl sm:px-16 xl:px-48 dark:text-stone-900">
-                        I am a huge fan
+                    <p class="mb-6 p-12 text-lg text center font-normal text-white dark:text-stone-900 lg:text-xl sm:px-16 xl:px-48 ">
+                        I am a huge mixed martial arts (MMA) fan! I am a Brazilian jiujitsu blue belt under Mike Lee and a Bang Muay Thai yellow belt under Chris Lee at Lee Brothers MMA.
+                        I have been training religiously for almost three years attending class five days a week. I have competed in a few jiujitsu competitions around the Midwest (peak the 2nd slide on my Instagram post for my clean hip-toss),
+                        but not sure if I will ever step into the cage as I am not a fan of getting hit.<br><br>
+
+                        Outside of work and jiujitsu, I love playing with my two spoiled kittens: Luz and Riley. I adopted Luz and Riley at the Fort Wayne Animal Shelter as a bonded pair, and farther down on this
+                        webpage you will see some photos of them! I named Luz and Riley after my favorite Disney characters from Inside Out and The Owl House.<br><br>
+
+                        Other hobbies I love are smoking meats, bourbon, weight training and musicals. In high school and college, I was member of the music department and show choir. My favorite musical is The Book of Mormon.
+                        I was on the varcity swim team and enjoyed swimming at the YMCA every-so-often.<br><br>
                     </p>
 
                         <!-- embedded post from my instagram -->
@@ -41,9 +49,10 @@
                     </div>
                 </div>
 
-                <hr class="w-72 h-1 mx-auto my-4 bg-stone-300 border-0 rounded md:my-10 dark:bg-gray-700">
+                <hr class="w-72 h-1 mx-auto my-4 bg-stone-300 border-0 rounded md:my-10 dark:bg-stone-700">
 
-                <h1 class="mb-4 text-center text-3xl font-extrabold text-gray-900 dark:text-white md:text-5xl lg:text-6xl">
+                <!-- cat gallery -->
+                <h1 class="mb-4 text-center text-3xl font-extrabold text-stone-900 dark:text-white md:text-5xl lg:text-6xl">
                     <span class="text-transparent bg-clip-text bg-gradient-to-r to-emerald-600 from-sky-400">Pictures of my cats: Luz and Riley!</span>
                 </h1>
                 <div class="grid grid-cols-2 md:grid-cols-3 gap-4">
@@ -67,6 +76,36 @@
                     </div>
                 </div>
 
+                <!-- My hatered of bradford pear trees -->
+
+                <div class="inline-flex items-center justify-center w-full">
+                    <hr class="w-64 h-1 my-8 bg-stone-200 border-0 rounded dark:bg-stone-700" fill="currentColor">
+                    <div class="absolute px-4 -translate-x-1/2 left-1/2">
+                        <svg aria-hidden="true" class="w-5 h-5 text-stone-700 dark:text-stone-300" viewBox="0 0 24 27" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M14.017 18L14.017 10.609C14.017 4.905 17.748 1.039 23 0L23.995 2.151C21.563 3.068 20 5.789 20 8H24V18H14.017ZM0 18V10.609C0 4.905 3.748 1.038 9 0L9.996 2.151C7.563 3.068 6 5.789 6 8H9.983L9.983 18L0 18Z" fill="currentColor"/></svg>
+                    </div>
+                </div>
+
+                <div class="max-w-screen-md  items-center justify-center">
+                    <div class="flex items-center">
+                        <svg aria-hidden="true" class="w-5 h-5 text-yellow-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><title>First star</title><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"></path></svg>
+                        <svg aria-hidden="true" class="w-5 h-5 text-stone-300 dark:text-stone-500" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><title>Second star</title><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"></path></svg>
+                        <svg aria-hidden="true" class="w-5 h-5 text-stone-300 dark:text-stone-500" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><title>Third star</title><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"></path></svg>
+                        <svg aria-hidden="true" class="w-5 h-5 text-stone-300 dark:text-stone-500" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><title>Fourth star</title><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"></path></svg>
+                        <svg aria-hidden="true" class="w-5 h-5 text-stone-300 dark:text-stone-500" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><title>Fifth star</title><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"></path></svg>
+                    </div>
+                    <blockquote>
+                        <p class="text-2xl font-semibold text-white dark:text-stone-900 ">"The Bradford Pear Tree is one of the worst-smelling trees every. They should be outlawed and replaced with more colorful, better-smelling trees. Even a pine tree is better than those abominations."</p>
+                    </blockquote>
+                    <figcaption class="flex items-center mt-6 space-x-3">
+                        <img class="w-6 h-6 rounded-full" src="/img/face.jpg" alt="beautiful image of my face">
+                        <div class="flex items-center divide-x-2 divide-stone-300 dark:divide-stone-700">
+                            <cite class="pr-3 font-medium text-white dark:text-stone-900 ">Phoenix Keiner</cite>
+                            <cite class="pl-3 text-sm text-white dark:text-stone-900">Bradford Pear Tree Hater</cite>
+                        </div>
+                    </figcaption>
+                </div>
+
+                <!-- return home button -->
                 <div class="flex justify-left">
                     <div class="justify-center mt-16 px-0 sm:items-center sm:justify-between">
                         <a href="/">
