@@ -13,9 +13,11 @@
     </head>
 
     <body class="antialiased">
+
         <!-- linkedin svg from linkedin's website https://brand.linkedin.com/content/brand/global/en_us/index/visual-identity/logo -->
         <div class="bg-gradient-to-r from-violet-400 from-10% via-sky-500 via-30% to-amber-400 to-90% relative sm:flex sm:justify-center sm:items-center min-h-screen">
             <div class="max-w-7xl mx-auto p-6 lg:p-8">
+
                 <div class="flex justify-right absolute top-5 right-5">
                     <svg fill="#000000" width="75px" height="75px" viewBox="0 0 24 24" id="linkedin" data-name="Linkedin Logo to My linkedin Page" xmlns="http://www.w3.org/2000/svg" class="icon flat-line"><a href="https://www.linkedin.com/in/phoenix-keiner?utm_source=website&utm_medium=resume&utm_campaign=laravel"><rect id="secondary" x="3" y="3" width="18" height="18" rx="1" style="fill: rgb(44, 169, 188); stroke-width: 2;"></rect>
                         <path id="primary" d="M16,17V14a2,2,0,0,0-2-2h0a2,2,0,0,0-2,2v3" style="fill: none; stroke: rgb(0, 0, 0); stroke-linecap: round; stroke-linejoin: round; stroke-width: 2;"></path>
@@ -24,7 +26,7 @@
                     </svg>
                 </div>
 
-                <figure class="md:flex bg-rose-400 rounded-xl p-8 md:p-0 dark:bg-rose-500 text-stone-900 dark:text-white">
+                <div class="md:flex bg-rose-400 rounded-xl p-8 md:p-0 dark:bg-rose-500 text-stone-900 dark:text-white">
                     <img class="w-24 h-24 md:w-48 md:h-auto md:rounded-none rounded-full mx-auto" src="/img/face.jpg" alt="beautiful image of my face" width="384" height="512">
                     <div class="pt-6 md:p-8 text-center md:text-left space-y-4">
                       <blockquote>
@@ -41,11 +43,12 @@
                         </div>
                       </figcaption>
                     </div>
-                  </figure>
+                </div>
 
+                  <!-- boxes to Resume and TMI page -->
                 <div class="mt-16">
                     <div class="grid grid-cols-1 md:grid-cols-2 gap-6 lg:gap-8">
-
+                        <!-- resume page -->
                         <a href="/resume" class="scale-100 p-6 bg-white dark:bg-stone-800/50 dark:bg-gradient-to-bl from-stone-700/50 via-transparent dark:ring-1 dark:ring-inset dark:ring-white/5 rounded-lg shadow-2xl shadow-stone-500/20 dark:shadow-none flex motion-safe:hover:scale-[1.01] transition-all duration-250 focus:outline focus:outline-2 focus:outline-red-500">
                             <div>
                                 <div class="h-16 w-16 bg-purple-600/20 dark:bg-purple-800/20 flex items-center justify-center rounded-full">
@@ -72,8 +75,8 @@
                               </span>
                         </a>
 
+                        <!-- TMI page -->
                         <a href="/tmi" class="scale-100 p-6 bg-white dark:bg-stone-800/50 dark:bg-gradient-to-bl from-stone-700/50 via-transparent dark:ring-1 dark:ring-inset dark:ring-white/5 rounded-lg shadow-2xl shadow-stone-500/20 dark:shadow-none flex motion-safe:hover:scale-[1.01] transition-all duration-250 focus:outline focus:outline-2 focus:outline-red-500">
-
                             <div>
                                 <div>
                                     <div class="h-16 w-16 bg-purple-600/20 dark:bg-purple-800/20 flex items-center justify-center rounded-full">
@@ -97,6 +100,7 @@
                     </div>
                 </div>
 
+                <!-- github link -->
                 <div class="flex justify-center mt-16 px-0 sm:items-center sm:justify-between">
                     <div class="text-center text-sm text-stone-200 dark:text-stone-200 sm:text-left">
                         <div class="flex items-center gap-4">
