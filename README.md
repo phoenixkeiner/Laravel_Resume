@@ -20,7 +20,7 @@ This is my Laravel Resume that includes Tailwind CSS.
       "php": "^8.1",
       "guzzlehttp/guzzle": "^7.2",
       "laravel/framework": "^10.0",
-    "laravel/sanctum": "^3.2",
+      "laravel/sanctum": "^3.2",
       "laravel/tinker": "^2.8"
   }
 ```
