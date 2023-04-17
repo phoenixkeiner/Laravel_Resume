@@ -10,11 +10,14 @@
         <!-- links style sheet from publix/css/app.css -->
         <link rel="stylesheet" href="css/app.css">
     </head>
-    <body class="antialiased">
-        <!-- linkedin svg from linkedin's website https://brand.linkedin.com/content/brand/global/en_us/index/visual-identity/logo -->
-        <div class="bg-gradient-to-r from-purple-400 to-orange-200">
+    <body class="antialiased selection:text-fuchsia-900 selection:bg-cyan-200
+                 bg-gradient-to-r from-purple-400 to-orange-200
+                 dark:bg-gradient-to-r dark:from-purple-600 dark:to-orange-300
+                 ">
+        <!-- about me section -->
+        <div>
             <div class="mx-auto p-6 lg:p-8">
-                <div class="rounded overflow-hidden shadow-lg w-full justify-center">
+                <div class="rounded overflow-hidden w-full justify-center">
                     <h1 class="mb-4 text-4xl text-center font-extrabold leading-none tracking-tight text-white md:text-5xl lg:text-6xl dark:text-stone-900">Too Much Information About Phoenix!</h1>
 
                     <hr class="w-72 h-1 mx-auto my-4 bg-stone-300 border-0 rounded md:my-10 dark:bg-stone-700">
@@ -35,7 +38,7 @@
                         <!-- embedded post from my instagram -->
                         <div class="flex items-center justify-center">
                         <blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/Cpa9RB4u8I0/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="14"
-                        style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);">
+                        style=" bg-background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);">
                         <div style="padding:16px;"> <a href="https://www.instagram.com/p/Cpa9RB4u8I0/?utm_source=ig_embed&amp;utm_campaign=loading"
                             style=" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;" target="_blank">
                             <div style=" display: flex; flex-direction: row; align-items: center;"> <div style="background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;"></div>
@@ -55,24 +58,24 @@
                 <h1 class="mb-4 text-center text-3xl font-extrabold text-stone-900 dark:text-white md:text-5xl lg:text-6xl">
                     <span class="text-transparent bg-clip-text bg-gradient-to-r to-emerald-600 from-sky-400">Pictures of my cats: Luz and Riley!</span>
                 </h1>
-                <div class="grid grid-cols-2 md:grid-cols-3 gap-4">
+                <div class="grid grid-cols-2 md:grid-cols-3 gap-5">
                     <div>
-                        <img class="h-auto max-w-full rounded-lg" src="/img/cat1.jpg" alt="both of my kittens laying in bed">
+                        <img class="h-auto max-w-full rounded-lg shadow-2xl" src="/img/cat1.jpg" alt="both of my kittens laying in bed">
                     </div>
                     <div>
-                        <img class="h-auto max-w-full rounded-lg" src="/img/cat2.jpg" alt="luz on top of one of her scratching posts">
+                        <img class="h-auto max-w-full rounded-lg shadow-2xl" src="/img/cat2.jpg" alt="luz on top of one of her scratching posts">
                     </div>
                     <div>
-                        <img class="h-auto max-w-full rounded-lg" src="/img/cat3.jpg" alt="riley and my pikachu squishmallow chillin on the coach">
+                        <img class="h-auto max-w-full rounded-lg shadow-2xl" src="/img/cat3.jpg" alt="riley and my pikachu squishmallow chillin on the coach">
                     </div>
                     <div>
-                        <img class="h-auto max-w-full rounded-lg" src="/img/cat4.jpg" alt="riley in her favorite hiding place with another squishmallow">
+                        <img class="h-auto max-w-full rounded-lg shadow-2xl" src="/img/cat4.jpg" alt="riley in her favorite hiding place with another squishmallow">
                     </div>
                     <div>
-                        <img class="h-auto max-w-full rounded-lg" src="/img/cat5.jpg" alt="luz being playful with her play tube">
+                        <img class="h-auto max-w-full rounded-lg shadow-2xl" src="/img/cat5.jpg" alt="luz being playful with her play tube">
                     </div>
                     <div>
-                        <img class="h-auto max-w-full rounded-lg" src="/img/cat6.jpg" alt="both of my cats with snapchat hearts">
+                        <img class="h-auto max-w-full rounded-lg shadow-2xl" src="/img/cat6.jpg" alt="both of my cats with snapchat hearts">
                     </div>
                 </div>
 
@@ -99,8 +102,11 @@
                     <figcaption class="flex items-center mt-6 space-x-3">
                         <img class="w-6 h-6 rounded-full" src="/img/face.jpg" alt="beautiful image of my face">
                         <div class="flex items-center divide-x-2 divide-stone-300 dark:divide-stone-700">
-                            <cite class="pr-3 font-medium text-white dark:text-stone-900 ">Phoenix Keiner</cite>
-                            <cite class="pl-3 text-sm text-white dark:text-stone-900">Bradford Pear Tree Hater</cite>
+                            <span class="relative">
+                                <span class="block absolute -inset-1 -skew-y-3 bg-cyan-300" aria-hidden="true"></span>
+                                <span class="relative text-stone-900">Phoenix Keiner</span>
+                              </span>
+                            <span class="pl-3 text-sm text-white dark:text-stone-900">Bradford Pear Tree Hater</span>
                         </div>
                     </figcaption>
                 </div>
