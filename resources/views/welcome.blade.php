@@ -119,29 +119,40 @@
                                     May include photos of my cat :)
                                 </p>
                             </div>
-                        </div>
-                    </a>
-
-                </div>
-            </div>
-
-            <!-- github link -->
-            <div class="flex justify-center mt-16 px-0 sm:items-center sm:justify-between">
-                <div class="text-center text-sm text-stone-200 dark:text-stone-200 sm:text-left">
-                    <div class="flex items-center gap-4">
-                        <a href="https://github.com/phoenixkeiner?utm_source=website&utm_medium=resume&utm_campaign=laravel"
-                            class="group inline-flex items-center hover:text-stone-700 dark:hover:text-white focus:outline">
-                            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"
-                                stroke-width="1.5"
-                                class="-mt-px mr-1 w-5 h-5 stroke-stone-500 dark:stroke-stone-600 group-hover:stroke-stone-200 dark:group-hover:stroke-stone-400">
-                                <path stroke-linecap="round" stroke-linejoin="round"
-                                    d="M21 8.25c0-2.485-2.099-4.5-4.688-4.5-1.935 0-3.597 1.126-4.312 2.733-.715-1.607-2.377-2.733-4.313-2.733C5.1 3.75 3 5.765 3 8.25c0 7.22 9 12 9 12s9-4.78 9-12z" />
-                            </svg>
-                            Thanks for reading my resume, check out my github!
                         </a>
                     </div>
                 </div>
-            </div>
+                    <div class="w-full justify-center p-16">
+                        <form class="bg-white dark:bg-stone-800/50 dark:bg-gradient-to-bl from-stone-700/50 via-transparent dark:ring-1 dark:ring-inset dark:ring-white/5 shadow-2xl shadow-stone-500/20 dark:shadow-none rounded px-8 pt-6 pb-8 mb-4" action="https://formsubmit.co/keinerphoenix@gmail.com" method="POST">
+                            <div class="mb-4">
+                                <input type="email" name="email" class="block p-2.5 w-full text-sm text-gray-900 bg-gray-50 rounded-lg border border-gray-300 focus:ring-blue-500 focus:border-blue-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500"
+                                placeholder=" Email Address!" required>
+                            </div>
+                            <div class="mb-6">
+                                <input type="text" name="message" class="block p-2.5 w-full text-sm text-gray-900 bg-gray-50 rounded-lg border border-gray-300 focus:ring-blue-500 focus:border-blue-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500"
+                                placeholder="Write your message to me here!" required>
+                            </div>
+                            <div class="flex items-center justify-center">
+                                <button class="bg-red-400 dark:bg-red-600 text-white dark:text-black uppercase font-semibold text-xs py-2 px-12 rounded-2xl" type="submit">Send me an email!</button>
+                            </div>
+                        </form>
+                    </div>
+
+
+
+                  <!-- github link -->
+                <div class="flex justify-center mt-16 px-0 sm:items-center sm:justify-between">
+                    <div class="text-center text-sm text-stone-200 dark:text-stone-200 sm:text-left">
+                        <div class="flex items-center gap-4">
+                            <a href="https://github.com/phoenixkeiner?utm_source=website&utm_medium=resume&utm_campaign=laravel" class="group inline-flex items-center hover:text-stone-700 dark:hover:text-white focus:outline">
+                                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" class="-mt-px mr-1 w-5 h-5 stroke-stone-500 dark:stroke-stone-600 group-hover:stroke-stone-200 dark:group-hover:stroke-stone-400">
+                                    <path stroke-linecap="round" stroke-linejoin="round" d="M21 8.25c0-2.485-2.099-4.5-4.688-4.5-1.935 0-3.597 1.126-4.312 2.733-.715-1.607-2.377-2.733-4.313-2.733C5.1 3.75 3 5.765 3 8.25c0 7.22 9 12 9 12s9-4.78 9-12z" />
+                                </svg>
+                                Thanks for reading my resume, check out my github!
+                            </a>
+                        </div>
+                    </div>
+              </div>
         </div>
     </div>
 </body>
