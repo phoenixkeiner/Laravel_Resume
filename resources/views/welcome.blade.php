@@ -98,11 +98,27 @@
                                 </div>
                             </div>
                         </a>
-
                     </div>
                 </div>
+                    <div class="w-full justify-center p-16">
+                        <form class="bg-white dark:bg-stone-800/50 dark:bg-gradient-to-bl from-stone-700/50 via-transparent dark:ring-1 dark:ring-inset dark:ring-white/5 shadow-2xl shadow-stone-500/20 dark:shadow-none rounded px-8 pt-6 pb-8 mb-4" action="https://formsubmit.co/keinerphoenix@gmail.com" method="POST">
+                            <div class="mb-4">
+                                <input type="email" name="email" class="block p-2.5 w-full text-sm text-gray-900 bg-gray-50 rounded-lg border border-gray-300 focus:ring-blue-500 focus:border-blue-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500"
+                                placeholder=" Email Address!" required>
+                            </div>
+                            <div class="mb-6">
+                                <input type="text" name="message" class="block p-2.5 w-full text-sm text-gray-900 bg-gray-50 rounded-lg border border-gray-300 focus:ring-blue-500 focus:border-blue-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500"
+                                placeholder="Write your message to me here!" required>
+                            </div>
+                            <div class="flex items-center justify-center">
+                                <button class="bg-red-400 dark:bg-red-600 text-white dark:text-black uppercase font-semibold text-xs py-2 px-12 rounded-2xl" type="submit">Send me an email!</button>
+                            </div>
+                        </form>
+                    </div>
 
-                <!-- github link -->
+
+
+                  <!-- github link -->
                 <div class="flex justify-center mt-16 px-0 sm:items-center sm:justify-between">
                     <div class="text-center text-sm text-stone-200 dark:text-stone-200 sm:text-left">
                         <div class="flex items-center gap-4">
@@ -115,8 +131,6 @@
                         </div>
                     </div>
                 </div>
-
-            </div>
         </div>
     </body>
 </html>
