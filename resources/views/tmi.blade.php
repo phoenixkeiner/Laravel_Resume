@@ -24,21 +24,19 @@
                     Mixed Martial Arts</h1>
                 <p
                     class="mb-6 p-12 text-lg text center font-normal text-white dark:text-stone-900 lg:text-xl sm:px-16 xl:px-48 ">
-                    I am a huge mixed martial arts (MMA) fan! I am a Brazilian jiujitsu blue belt under Mike Lee and a
-                    Bang Muay Thai yellow belt under Chris Lee at Lee Brothers MMA.
-                    I have been training religiously for almost three years attending class five days a week. I have
-                    competed in a few jiujitsu competitions around the Midwest (peak the 2nd slide on my Instagram post
-                    for my clean hip-toss), but not sure if I will ever step into the cage as I am not a fan of getting
-                    hit.<br><br>
+                    I am a huge mixed martial arts (MMA) fan! I am a Brazilian jiujitsu blue belt under Mike Lee and a Bang Muay Thai
+                    yellow belt under Chris Lee at Lee Brothers MMA. I have been training religiously for almost three years, attending
+                    class five days a week. I have competed in a few jiujitsu competitions around the Midwest (peek at the 2nd slide on
+                    my Instagram post for my clean hip toss), but I’m not sure if I will ever step into the cage as I am not a fan of
+                    getting hit.<br><br>
 
-                    Outside of work and jiujitsu, I love playing with my two spoiled kittens: Luz and Riley. I adopted
-                    Luz and Riley at the Fort Wayne Animal Shelter as a bonded pair, and farther down on this
-                    webpage you will see some photos of them! I named Luz and Riley after my favorite Disney characters
-                    from Inside Out and The Owl House.<br><br>
+                    Outside of work and jiujitsu, I love playing with my two spoiled kittens: Luz and Riley. I adopted Luz and Riley at
+                    the Fort Wayne Animal Shelter as a bonded pair, and farther down on this web page you will see some photos of them!
+                    <br><br>
 
-                    Other hobbies I love are smoking meats, bourbon, weight training and musicals. In high school and
-                    college, I was member of the music department and show choir. My favorite musical is The Book of
-                    Mormon. I was on the varcity swim team and enjoyed swimming at the YMCA every-so-often.<br><br>
+                    Other hobbies I love are smoking meats, drinking bourbon, weight training and attending musicals. In high school and
+                    college, I was member of the music department and show choir. My favorite musical is <em>The Book of Mormon</em>. I
+                    was on the varsity swim team and enjoy swimming at the YMCA every so often.<br><br>
                 </p>
 
                 <!-- embedded post from my instagram -->
@@ -229,7 +227,7 @@
                 </div>
 
                 <blockquote>
-                    <p class="text-2xl font-semibold text-white dark:text-stone-900 ">"The Bradford Pear Tree is one of
+                    <p class="text-2xl font-semibold text-white dark:text-stone-900 ">"The Bradford pear tree is one of
                         the worst-smelling trees ever. They should be outlawed and replaced with more colorful,
                         better-smelling trees. Even a pine tree is better than those abominations."</p>
                 </blockquote>
