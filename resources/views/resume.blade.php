@@ -19,7 +19,9 @@
     <div role="resume list" class="mx-auto p-6 lg:p-8">
         <h2 class="pt-8 text-xl text-stone-700 mb-5">Timeline of my work!</h2>
         <a href="https://www.linkedin.com/in/phoenix-keiner?utm_source=website&utm_medium=resume&utm_campaign=laravel"
-            class="inline-flex items-center px-4 py-2 text-sm font-medium text-stone-900 bg-white border border-stone-200 rounded-lg hover:bg-stone-100 hover:text-blue-700 focus:z-10 focus:ring-4 focus:outline-none focus:ring-stone-200 focus:text-blue-700 dark:bg-stone-800 dark:text-stone-400 dark:border-stone-600 dark:hover:text-white dark:hover:bg-stone-700 dark:focus:ring-stone-700">LinkedIn
+            class="inline-flex items-center px-4 py-2 text-sm font-medium text-stone-900 bg-white border border-stone-200 rounded-lg hover:bg-stone-100 hover:text-blue-700
+            focus:z-10 focus:ring-4 focus:outline-none focus:ring-stone-200 focus:text-blue-700 dark:bg-stone-800 dark:text-stone-400 dark:border-stone-600
+            dark:hover:text-white dark:hover:bg-stone-700 dark:focus:ring-stone-700">LinkedIn
             <svg class="w-3 h-3 ml-2" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
                 <path fill-rule="evenodd"
                     d="M12.293 5.293a1 1 0 011.414 0l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-2.293-2.293a1 1 0 010-1.414z"
@@ -31,14 +33,13 @@
                 <div
                     class="absolute w-3 h-3 bg-teal-500 rounded-full mt-1.5 -left-1.5 border border-white dark:border-stone-900 dark:bg-rose-700">
                 </div>
-                <time class="mb-1 text-sm font-normal leading-none text-stone-400 dark:text-stone-500">August
-                    2017</time>
-                <h3 class="text-lg font-semibold text-stone-900 dark:text-stone-500">University of Saint Francis</h3>
+                <time class="mb-1 text-sm font-normal leading-none text-stone-400 dark:text-stone-500">August 2017</time>
+                <h3 class="text-lg font-semibold text-stone-900 dark:text-stone-500">Started at the University of Saint Francis</h3>
                 <p class="mb-4 text-base font-normal text-stone-500 dark:text-stone-700">
 
-                    Roger Bacon Scholarship & Richard Lugar Scholarship recipient<br><br>
-                    Minored in Music Technology<br><br>
-                    Band member all four years<br><br>
+                    Roger Bacon Scholarship and Richard Lugar Scholarship recipient<br><br>
+                    Minored in music technology<br><br>
+                    Band member for four years
 
                 </p>
             </li>
@@ -52,16 +53,16 @@
                 <h3 class="text-lg font-semibold text-stone-900 dark:text-stone-500">Technology Teacher</h3>
                 <p class="text-base font-normal text-stone-500 dark:text-stone-700 py-2">
 
-                    Implement lesson plans for k-8 following the Indiana State <br>
-                    standards for computer science on Data analytics, troubleshooting,<br>
+                    Implemented lesson plans for K-8 following the Indiana state <br>
+                    standards for computer science on data analytics, troubleshooting,<br>
                     HTML, web programming, Python/robotics & Office 356<br><br>
 
                     Coached the elementary and middle school Robotics team - 10th at<br>
                     state finals<br><br>
 
-                    Incorporating projects in collaboration with other teachers' lesson plans<br><br>
+                    Incorporated projects in collaboration with other teachers' lesson plans<br><br>
 
-                    Cut short due to Covid19
+                    Cut short due to Covid19 pandemic
                 </p>
             </li>
 
@@ -74,32 +75,28 @@
                 <h3 class="text-lg font-semibold text-stone-900 dark:text-stone-500">Started my <a
                         href="https://www.youtube.com/@phoenixkeiner2939/videos"
                         class="text-purple-500 underline">Youtube</a> series</h3>
-                <p class="mb-4 text-base font-normal text-stone-500 dark:text-stone-700">Wanted to leave something for
-                    my students</p>
+                <p class="mb-4 text-base font-normal text-stone-500 dark:text-stone-700">Wanted to leave something for my students</p>
             </li>
 
             <li class="mb-10 ml-4">
                 <div
                     class="absolute w-3 h-3 bg-teal-500 rounded-full mt-1.5 -left-1.5 border border-white dark:border-stone-900 dark:bg-rose-700">
                 </div>
-                <time class="mb-1 text-sm font-normal leading-none text-stone-400 dark:text-stone-500">October
-                    2020</time>
+                <time class="mb-1 text-sm font-normal leading-none text-stone-400 dark:text-stone-500">October 2020</time>
                 <h3 class="text-lg font-semibold text-stone-900 dark:text-stone-500">Data Analytics Certificate from
                     Stanford</h3>
-                <p class="text-base font-normal text-stone-500 dark:text-stone-700">Online class on SQL, Python for Data
-                    Analytics and R</p>
+                <p class="text-base font-normal text-stone-500 dark:text-stone-700">Completed online classes on SQL, Python for data analytics and R</p>
 
             <li class="mb-10 ml-4">
                 <div
                     class="absolute w-3 h-3 bg-teal-500 rounded-full mt-1.5 -left-1.5 border border-white dark:border-stone-900 dark:bg-rose-700">
                 </div>
                 <time class="mb-1 text-sm font-normal leading-none text-stone-400 dark:text-stone-500">April 2021</time>
-                <h3 class="text-lg font-semibold text-stone-900 dark:text-stone-500">Graduated from the University of
-                    Saint Francis</h3>
+                <h3 class="text-lg font-semibold text-stone-900 dark:text-stone-500">Graduated from the University of Saint Francis</h3>
                 <p class="text-base font-normal text-stone-500 dark:text-stone-700">
 
-                    Magna Cum Laude<br>
-                    B.S. Computer Informations Systems minor in Music Technology
+                    Magna cum laude<br>
+                    B.S. in computer information systems with a minor in music technology
 
                 </p>
             </li>
@@ -113,30 +110,30 @@
                 <p class="text-base font-normal text-stone-500 dark:text-stone-700">
 
                     Aided in back-end website development using PHP and<br>
-                    Laravel; front-end websitedevelopment using the Adobe Suite<br><br>
+                    Laravel, and front-end website development using the Adobe Suite<br><br>
 
-                    Implement tracking for Google Analytics<br><br>
+                    Implement tracking for Google Analytics 4<br><br>
 
-                    Modify, maintain, document and control content, and UI of websites<br><br>
+                    Modifies, maintains, documents and controls content and UI of websites<br><br>
 
-                    Delivered daily promotional emails from marketing<br>
-                    to upto 1,250,000 customers<br><br>
+                    Delivers daily promotional emails from marketing<br>
+                    to up to 1,250,000 customers<br><br>
 
-                    Responsible for tasks associated with ongoing projects or<br>
+                    Completes tasks associated with ongoing projects or<br>
                     mini-projects, including task assignments, follow-up,<br>
                     documentation and troubleshooting<br><br>
 
-                    Collaborate for site performance, stability,<br>
+                    Collaborates with team for site performance, stability,<br>
                     look and flow of all websites<br><br>
 
-                    Facilitation of inter-department requests for<br>
+                    Facilitates interdepartmental requests for<br>
                     site modifications, updates and redesigns<br><br>
 
-                    Drove websites to comply with ADA standards using Audioeye API<br><br>
+                    Drives websites to comply with ADA standards using AudioEye API<br><br>
 
-                    Systemized database queries and entries using PHPMyAdmin with SQL<br><br>
+                    Systemizes database queries and entries using phpMyAdmin with SQL<br><br>
 
-                    Planned minor workflow projects as acting project manager
+                    Has planned minor workflow projects as acting project manager
 
                 </p>
             </li>

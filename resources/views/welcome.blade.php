@@ -35,8 +35,8 @@
                 <div class="pt-6 md:p-8 text-center md:text-left space-y-4">
                     <blockquote>
                         <p class="text-lg font-medium">
-                            “Hello! Thank you for taking time out of your busy life to get to know me better in my
-                            Laravel resume! Sidenote, links are tracked through UTM codes with Google Analytics!”
+                            “Hello! Thank you for taking time out of your busy life to get to know me better in my Laravel resume!
+                            Sidenote: links are tracked through UTM codes with Google Analytics!”
                         </p>
                     </blockquote>
                     <figcaption class="font-medium">
@@ -113,7 +113,7 @@
                                     Information</h2>
 
                                 <p class="mt-4 text-stone-500 dark:text-stone-400 text-sm leading-relaxed">
-                                    If you are currous about what I do outside of work browse through my tmi webpage!
+                                    If you are curious about what I do outside of work browse through my TMI webpage!
                                 </p>
                                 <p class="mt-4 text-stone-500 dark:text-stone-400 text-sm leading-relaxed">
                                     May include photos of my cat :)
