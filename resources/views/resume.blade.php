@@ -109,10 +109,10 @@
                 <h3 class="text-lg font-semibold text-stone-900 dark:text-stone-500">Annies Publishing</h3>
                 <p class="text-base font-normal text-stone-500 dark:text-stone-700">
 
-                    Aided in back-end website development using PHP and<br>
+                    Aids in back-end website development using PHP and<br>
                     Laravel, and front-end website development using the Adobe Suite<br><br>
 
-                    Implement tracking for Google Analytics 4<br><br>
+                    Implements tracking for Google Analytics 4<br><br>
 
                     Modifies, maintains, documents and controls content and UI of websites<br><br>
 
