@@ -148,27 +148,27 @@
             </h1>
             <div class="grid grid-cols-2 md:grid-cols-3 gap-5">
                 <div>
-                    <img class="h-auto max-w-full rounded-lg shadow-2xl" src="/img/cat1.jpg"
+                    <img class="h-auto max-w-full rounded-lg shadow-2xl" loading="lazy" src="/img/cat1.jpg"
                         alt="both of my kittens laying in bed">
                 </div>
                 <div>
-                    <img class="h-auto max-w-full rounded-lg shadow-2xl" src="/img/cat2.jpg"
+                    <img class="h-auto max-w-full rounded-lg shadow-2xl" loading="lazy" src="/img/cat2.jpg"
                         alt="luz on top of one of her scratching posts">
                 </div>
                 <div>
-                    <img class="h-auto max-w-full rounded-lg shadow-2xl" src="/img/cat3.jpg"
+                    <img class="h-auto max-w-full rounded-lg shadow-2xl" loading="lazy" src="/img/cat3.jpg"
                         alt="riley and my pikachu squishmallow chillin on the coach">
                 </div>
                 <div>
-                    <img class="h-auto max-w-full rounded-lg shadow-2xl" src="/img/cat4.jpg"
+                    <img class="h-auto max-w-full rounded-lg shadow-2xl" loading="lazy" src="/img/cat4.jpg"
                         alt="riley in her favorite hiding place with another squishmallow">
                 </div>
                 <div>
-                    <img class="h-auto max-w-full rounded-lg shadow-2xl" src="/img/cat5.jpg"
+                    <img class="h-auto max-w-full rounded-lg shadow-2xl" loading="lazy" src="/img/cat5.jpg"
                         alt="luz being playful with her play tube">
                 </div>
                 <div>
-                    <img class="h-auto max-w-full rounded-lg shadow-2xl" src="/img/cat6.jpg"
+                    <img class="h-auto max-w-full rounded-lg shadow-2xl" loading="lazy" src="/img/cat6.jpg"
                         alt="both of my cats with snapchat hearts">
                 </div>
             </div>
