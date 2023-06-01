@@ -243,7 +243,7 @@
                         placeholder="Write your message to me here!" required>
                     </div>
                     <div class="flex items-center justify-center">
-                        <button class="bg-red-400 dark:bg-red-600 text-white dark:text-black uppercase font-semibold text-xs py-2 px-12 rounded-2xl" type="submit">Send me an email!</button>
+                        <button class="bg-red-400 dark:bg-red-600 hover:bg-red-600 dark:hover:bg-red-800 text-white dark:text-black uppercase font-semibold text-xs py-2 px-12 rounded-2xl" type="submit">Send me an email!</button>
                     </div>
                 </form>
             </div>
